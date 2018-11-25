@@ -1,6 +1,6 @@
 # yltqO6lw
 ####作者邮箱 ：k2r8hms6v@outlook.com
-#####赢商网（http://www.winshang.com/index.html）投票作弊系统
+#####http://www.winshang.com/index.html）投票作弊系统
 
 #工作原理
 #####投票页面http://m.winshang.com/h5/2018xnfh/index.aspx?from=timeline&isappinstalled=0
